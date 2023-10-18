@@ -7,7 +7,7 @@
 
 ### About Me
 * 🚲 recently graduated from UC Davis with a B.S. in Computer Science
-* 🚀 software engineer at Bugcrowd interested in fullstack development
+* 🚀 junior software engineer at Bugcrowd
 * 💖 passionate about fullstack devlopment
   
 ### My Stats
