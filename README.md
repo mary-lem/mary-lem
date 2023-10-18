@@ -15,6 +15,7 @@
 
 
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-lem&theme=bear)](https://git.io/streak-stats)&nbsp; &nbsp;
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-lem&theme=bear)](https://git.io/streak-stats)&nbsp;
 [![Top Langs](https://github-readme-stats-fmz3r6a7c-mary-lems-projects.vercel.app/api/top-langs/?username=mary-lem&layout=donut&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mary-lem&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
