@@ -6,7 +6,7 @@
 </div>
 
 ## About Me
-- 🚲 recently graduated from UC Davis with a BS in Computer Science
+- 🚲 graduated from UC Davis with a BS in Computer Science
 - 🚀 software engineer at Bugcrowd
 - 💖 passionate about fullstack development 🥞
 
