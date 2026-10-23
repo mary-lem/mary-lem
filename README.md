@@ -15,4 +15,3 @@
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-lem&theme=bear&card_width=400)](https://git.io/streak-stats) &nbsp;
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mary-lem&theme=rogue&width="10")](https://github.com/ashutosh00710/github-readme-activity-graph)
